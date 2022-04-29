@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+}
+
+header div h1 {
+    color: slategray;
+    text-align: center;
+    font-size: 5vw;
+}
