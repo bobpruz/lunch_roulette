@@ -5,10 +5,12 @@ body {
 header div h1 {
     color: black;
     text-align: center;
-    font-size: 5vw;
+    font-size: 7vw;
+    font-weight: bolder;
 }
 
 #chosenRest {
     color: black;
     font-size: 5vw;
+    font-weight: bold;
 }
