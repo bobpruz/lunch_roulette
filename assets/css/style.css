@@ -3,7 +3,12 @@ body {
 }
 
 header div h1 {
-    color: slategray;
+    color: black;
     text-align: center;
+    font-size: 5vw;
+}
+
+#chosenRest {
+    color: black;
     font-size: 5vw;
 }
