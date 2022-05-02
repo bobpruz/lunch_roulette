@@ -24,7 +24,12 @@ const restaurants = [
   "Wahlburgers",
   "El Toro",
   "Pizza Karma",
-  "Bonchon"
+  "Bonchon",
+  "Slims",
+  "Rocky Rococo",
+  "Serums",
+  "Great Greek",
+  "Portillo's"
 ];
 
 spin.on("click", function () {
