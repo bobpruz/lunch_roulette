@@ -9,7 +9,22 @@ const restaurants = [
   "Mavericks",
   "Chipotle",
   "Freddys",
-  "Dicks"
+  "Dicks",
+  "Lemon Grass",
+  "MT Noodles",
+  "Panda Express",
+  "Jets Pizza",
+  "Chans",
+  "Naf Naf",
+  "Tacos El Paraiso",
+  "MC's Tap House",
+  "Olympia Cafe",
+  "Duffy's Bar and Grill",
+  "Olive Garden",
+  "Wahlburgers",
+  "El Toro",
+  "Pizza Karma",
+  "Bonchon"
 ];
 
 spin.on("click", function () {
