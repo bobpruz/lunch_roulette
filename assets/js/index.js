@@ -29,7 +29,8 @@ const restaurants = [
   "Rocky Rococo",
   "Serums",
   "Great Greek",
-  "Portillo's"
+  "Portillo's",
+  'Mad Jacks'
 ];
 
 spin.on("click", function () {
